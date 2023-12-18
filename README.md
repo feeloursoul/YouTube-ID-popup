@@ -1,4 +1,4 @@
-以下のコードをコピーしてブックマークのバーにドラッグ&ドロップしてください。
+以下のコードをコピーしてブラウザのブックマークバーにドラッグ&ドロップしてください。
 <br>
 <br>
 ```
@@ -6,13 +6,15 @@ javascript:(function(){ var currentUrl = window.location.href; var videoId = cur
 ```
 <br>
 <br>
-Youtubeの動画が表示されたページでこのブックマークレットをワンクリックします。
-<br>
-動画の「ID」番号が出力されます。
-<br>
-![YouTube-ID-extractor](https://github.com/feeloursoul/YouTube-ID-popup/assets/152250183/42cf5637-28d0-4475-a0e2-590ea8310efd)
+Youtubeの動画が表示されてるページ上でブックマークレットをクリックします。
 <br>
 <br>
-以上になります。
+今見ている動画の「ID」番号が出力されます。
+<br>
+<br>
+(https://github.com/feeloursoul/YouTube-ID-popup/assets/152250183/42cf5637-28d0-4475-a0e2-590ea8310efd)
+<br>
+<br>
+使い方は以上です。
 
 

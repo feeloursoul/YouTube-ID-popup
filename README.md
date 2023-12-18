@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-"# YouTube-ID-popup" 
-"# Taittsuu-photo-wall" 
-"# Taittsuu-photo-wall" 
-=======
 以下のコードをコピーしてブラウザのブックマークバーにドラッグ&ドロップしてください。
 <br>
 <br>
@@ -18,11 +13,9 @@ Youtubeの動画が表示されてるページ上でブックマークレット�
 <br>
 <br>
 今見ている動画の「ID」番号がポップアップ出力されます。
-<br>
+
 
 (https://github.com/feeloursoul/YouTube-ID-popup/assets/152250183/42cf5637-28d0-4475-a0e2-590ea8310efd)
 
-<br>
-使い方は以上です。
 
 

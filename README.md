@@ -8,8 +8,9 @@ javascript:(function(){ var currentUrl = window.location.href; var videoId = cur
 <br>
 Youtubeの動画が表示されてるページ上でブックマークレットをクリックします。
 <br>
+ブックマークレット名を好きな名前にリネームしてください。
 <br>
-今見ている動画の「ID」番号が出力されます。
+あなたが今見ている動画の「ID」番号が出力されます。
 <br>
 <br>
 (https://github.com/feeloursoul/YouTube-ID-popup/assets/152250183/42cf5637-28d0-4475-a0e2-590ea8310efd)
